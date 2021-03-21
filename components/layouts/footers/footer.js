@@ -52,7 +52,7 @@ const headers = () => {
                     marginLeft: "16px",
                   }}
                 >
-                  <Image
+                  <img
                     src="/assets/footer-logo.svg"
                     objectFit="contain"
                     layout="fill"

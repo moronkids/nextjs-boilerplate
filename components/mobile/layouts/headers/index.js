@@ -52,7 +52,7 @@ const Headers = () => {
           }}
         >
           {/* <Hamburger onClick={(e) => setToggle(!toggle)} /> */}
-          <Image
+          <img
             src="/assets/hamburger.png"
             objectFit="contain"
             // layout="fill"
@@ -66,7 +66,7 @@ const Headers = () => {
             </a>
           </Link>
 
-          <Image
+          <img
             src="/assets/minify.svg"
             objectFit="contain"
             // layout="fill"
