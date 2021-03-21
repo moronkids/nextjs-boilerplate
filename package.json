@@ -19,6 +19,7 @@
     "cssnano": "^4.1.10",
     "dayjs": "^1.10.4",
     "next": "^10.0.7",
+    "next-on-netlify": "^2.9.0",
     "next-pwa": "^5.0.6",
     "next-useragent": "^2.4.0",
     "nprogress": "^0.2.0",
