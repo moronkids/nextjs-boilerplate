@@ -8,7 +8,7 @@ import Searchbar from "components/mobile/layouts/searchbar";
 import { AppContext } from "providers/hooks";
 import Router from "next/router";
 import Link from 'next/link';
-import Image from 'next/image';
+// import Image from 'next/image';
 const Headers = () => {
   // const [toggle, setToggle] = useState(false);
   const {

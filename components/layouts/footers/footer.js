@@ -1,5 +1,5 @@
 import Logo from "../../../public/assets/logo-trickynetFooter.svg";
-import Image from "next/image";
+// import Image from "next/image";
 const headers = () => {
   return (
     <>
